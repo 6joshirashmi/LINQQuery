@@ -1,0 +1,14 @@
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\bin\Debug\net8.0\linqquery.exe
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\bin\Debug\net8.0\linqquery.deps.json
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\bin\Debug\net8.0\linqquery.runtimeconfig.json
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\bin\Debug\net8.0\linqquery.dll
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\bin\Debug\net8.0\linqquery.pdb
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.AssemblyInfoInputs.cache
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.AssemblyInfo.cs
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.csproj.CoreCompileInputs.cache
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.dll
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\refint\linqquery.dll
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.pdb
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\linqquery.genruntimeconfig.cache
+C:\Developer\!-interview-2024\core-coding\LINQQuery\linqquery\obj\Debug\net8.0\ref\linqquery.dll

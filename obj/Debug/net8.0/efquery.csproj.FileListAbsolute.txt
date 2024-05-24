@@ -1,0 +1,14 @@
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\bin\Debug\net8.0\efquery.exe
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\bin\Debug\net8.0\efquery.deps.json
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\bin\Debug\net8.0\efquery.runtimeconfig.json
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\bin\Debug\net8.0\efquery.dll
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\bin\Debug\net8.0\efquery.pdb
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.AssemblyInfoInputs.cache
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.AssemblyInfo.cs
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.csproj.CoreCompileInputs.cache
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.dll
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\refint\efquery.dll
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.pdb
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\efquery.genruntimeconfig.cache
+C:\Developer\!-interview-2024\core-coding\EFQuery\efquery\obj\Debug\net8.0\ref\efquery.dll
